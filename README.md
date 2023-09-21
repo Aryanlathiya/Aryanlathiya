@@ -1,5 +1,5 @@
 ![logo](https://github.com/AryanLathiya/AryanLathiya/blob/main/background.jpeg)
-<h1 align="center">Hi <img  alt="coding" width="50" src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif">, I'm Raghu Lathiya</h1>
+<h1 align="center">Hi 🙋‍♂️, I'm Raghu Lathiya</h1>
 <h3 align="center">A passionate Software Engineer from UnitedKingdom</h3>
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
